@@ -11,7 +11,7 @@ The [National Health and Nutrition Examination Survey (NHANES)](https://www.cdc.
 
 This project analyzes depressive symptoms alongside demographic characteristics and health risk factors using data from the **2011–2012 and 2021–2023 NHANES survey cycles**. The goal is to examine how the prevalence of depressive symptoms has changed over the past decade and identify the factors most strongly associated with differences in that prevalence.
 
-**[View the Interactive Power BI Dashboard →](Nhanes-Depression-Dashboard.pbix)**
+**[Download the Interactive Power BI Dashboard →](Nhanes-Depression-Dashboard.pbix)**
 
 **[View Targeted SQL Analysis →](./SQL/03_highlight_queries.sql)**
 
@@ -70,7 +70,6 @@ Alcohol consumption showed a similar pattern. **20.86%** of adults in the **heav
 
 ![Power BI Overview](./Images/Dashboard_Overview.png)
 
-**[View the Interactive Power BI Dashboard →](Nhanes-Depression-Dashboard.pbix)**
 
 ---
 
